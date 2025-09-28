@@ -7,6 +7,8 @@ We'll be going on a journey from **traditional machine learning** to **modern de
 By the end of this course, you'll have built a **complete, end-to-end deep learning pipeline** for the MNIST digit classification task.
 
 ---
+You can download the books under the folder resources, you cannot view them in github, so download the file first to view
+---
 
 ## Course Phases
 
@@ -23,7 +25,7 @@ The course is split into **three main phases**:
 ### **Phase 3: CNNs + Capstone (Days 10–12)**  
 - Learn **Convolutional Neural Networks (CNNs)** for image-based tasks.  
 - Explore **regularization techniques** like *dropout* and *batch normalization*.  
-- **Final Project**: Build a complete MNIST deep learning pipeline to showcase everything you've learned.
+- **Final Project**: Build a complete MNIST library to showcase everything you've learned.
 
 ---
 

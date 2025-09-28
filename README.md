@@ -7,7 +7,7 @@ We'll be going on a journey from **traditional machine learning** to **modern de
 By the end of this course, you'll have built a **complete, end-to-end deep learning pipeline** for the MNIST digit classification task.
 
 ---
-You can download the books under the folder resources, you cannot view them in github, so download the file first to view
+You can download the books under the folder resources, you cannot view them on github, so download the file first to view
 ---
 
 ## Course Phases
